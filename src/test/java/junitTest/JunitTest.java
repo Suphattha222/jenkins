@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class JunitTest {
 
-	@Ignore
+	
 	@Test
 	public void test() {
 		

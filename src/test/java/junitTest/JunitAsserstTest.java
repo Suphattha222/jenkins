@@ -26,6 +26,6 @@ public class JunitAsserstTest {
 	
 	@Test
 	public void testingAssertTrueWithDescription() {
-		assertTrue("Result is true",!result);
+		assertTrue("Result is true",result);
 	}
 }
